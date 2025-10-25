@@ -1,51 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- ===== Главная страница ===== -->
+  <!-- Главная -->
   <url>
     <loc>https://robux-qvnl.onrender.com/</loc>
-    <lastmod>2025-10-24</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-10-25</lastmod>
     <priority>1.0</priority>
-
-    <!-- версии страницы на 3 языках -->
-    <xhtml:link rel="alternate" hreflang="en" href="https://robux-qvnl.onrender.com/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://robux-qvnl.onrender.com/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://robux-qvnl.onrender.com/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://robux-qvnl.onrender.com/" />
   </url>
 
-  <!-- ===== Раздел: Что такое Robux ===== -->
+  <!-- Методы -->
   <url>
-    <loc>https://robux-qvnl.onrender.com/#what-is-robux</loc>
-    <lastmod>2025-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- ===== Раздел: Бесплатные Robux (честно) ===== -->
-  <url>
-    <loc>https://robux-qvnl.onrender.com/#legit-ways</loc>
-    <lastmod>2025-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- ===== Раздел: Цены Robux ===== -->
-  <url>
-    <loc>https://robux-qvnl.onrender.com/#prices</loc>
-    <lastmod>2025-10-24</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://robux-qvnl.onrender.com/methods.html</loc>
+    <lastmod>2025-10-25</lastmod>
     <priority>0.9</priority>
   </url>
 
-  <!-- ===== Раздел: FAQ ===== -->
+  <!-- Безопасность -->
   <url>
-    <loc>https://robux-qvnl.onrender.com/#faq</loc>
-    <lastmod>2025-10-24</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://robux-qvnl.onrender.com/safety.html</loc>
+    <lastmod>2025-10-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Цены -->
+  <url>
+    <loc>https://robux-qvnl.onrender.com/prices.html</loc>
+    <lastmod>2025-10-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- FAQ -->
+  <url>
+    <loc>https://robux-qvnl.onrender.com/faq.html</loc>
+    <lastmod>2025-10-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Контакты -->
+  <url>
+    <loc>https://robux-qvnl.onrender.com/contact.html</loc>
+    <lastmod>2025-10-25</lastmod>
     <priority>0.7</priority>
   </url>
 
